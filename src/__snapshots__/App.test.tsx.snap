@@ -3,28 +3,25 @@
 exports[`<App /> renders component correctily 1`] = `
 <div>
   <div
-    class="App"
+    class="sc-bcXHqe iAIzKk"
   >
     <header
-      class="App-header"
+      class="sc-gswNZR hKzNXl"
     >
       <img
         alt="logo"
-        class="App-logo"
+        class="sc-dkrFOg JzqnN"
         src="logo.svg"
       />
       <p>
         Edit 
         <code>
-          src/App.js
+          src/App.tsx
         </code>
          and save to reload.
       </p>
       <a
-        class="App-link"
-        href="https://reactjs.org"
-        rel="noopener noreferrer"
-        target="_blank"
+        class="sc-hLBbgP dIlElw"
       >
         Learn React
       </a>
