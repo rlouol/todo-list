@@ -23,7 +23,8 @@ function App() {
   return (
     <Container>
       <Contents>
-        <Button label="삭제" backgroundColor='#FF1744' hoverColor='#F01440'/>
+        <Button label="삭제" backgroundColor='#FF1744' hoverColor='#F01440'
+          onClick={() => alert('삭제!')}/>
       </Contents>
     </Container>
   );
